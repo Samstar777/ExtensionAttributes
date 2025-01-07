@@ -1,9 +1,9 @@
 # ExtensionAttributes
 Jamf Pro Extension Attribute Library
 
-## Major Part of Office License EA has been taken from pbowden-msft Paul Bowden GitHub resource.
+## 1. Major Part of Office License EA has been taken from pbowden-msft Paul Bowden GitHub resource.
 
-## Chrome Extension Attribute Script for Jamf Pro
+## 2. Chrome Extension Attribute Script for Jamf Pro
 ### Overview
 
 This script collects and reports information about Google Chrome extensions installed for the currently logged-in user on macOS devices. It is specifically tailored for use as an Extension Attribute in Jamf Pro, aiding in device monitoring and management.
